@@ -1,4 +1,4 @@
-# Drag & Drop Instrument
+# Drag & Drop Sound Samples
 
 An Objective-C interface to display a collection of sound samples, catalogued by instrument type with expandable categories. With their file paths converted to shorthands depicting the sample notation/abbreviation.
 
